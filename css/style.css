@@ -7,6 +7,9 @@
     font-weight: 400;
     
 }
+input, textarea, select {
+    -webkit-appearance: none!important;
+}
 
 .wrapper{
     width: 100%;
